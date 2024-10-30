@@ -1,0 +1,32 @@
+.ip-content{font-size:12px}
+
+.ip-content .pointer{cursor:pointer}
+
+.ip-content .rel{position:relative}
+.ip-content .abs{position:absolute}
+
+.ip-content .left{display:inline;float:left}
+.ip-content .right{display:inline;float:right}
+.ip-content .clear{clear:both}
+
+.ip-content .mtop5{margin-top:5px !important}
+.ip-content .mtop10{margin-top:10px !important}
+.ip-content .mtop20{margin-top:20px !important}
+
+.ip-content .mleft5{margin-left:5px !important}
+.ip-content .mleft10{margin-left:10px !important}
+.ip-content .mleft20{margin-left:20px !important}
+
+.ip-content .clearfix:before, .clearfix:after{content:'';display:table}
+.ip-content .clearfix:after{clear:both}
+.ip-content .clearfix{zoom:1}
+
+.ip-content a{text-decoration:none}
+.ip-content a:hover{text-decoration:underline}
+
+.ip-content .image-box{min-height:40px;margin-bottom:5px;padding:3px;border:solid 1px #DFDFDF;background-color:#F5F5F5}
+.ip-content .image-box .delete{top:5px;right:5px;width:15px;height:16px;background-image:url(../images/icon-delete.png);cursor:pointer;overflow:hidden}
+
+.ip-content .category-item{width:285px;margin:0px 0px 5px 0px;padding:3px 8px;border:solid 1px #DFDFDF;background-color:#F5F5F5;background-image:-moz-linear-gradient(center top , #F9F9F9, #F5F5F5)}
+.ip-content .category-item .title{width:260px;overflow:hidden}
+.ip-content .category-item .delete{width:15px;height:16px;margin:2px 0px;background-image:url(../images/icon-delete.png);cursor:pointer;overflow:hidden}

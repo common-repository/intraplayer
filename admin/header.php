@@ -1,0 +1,2 @@
+<link type="text/css" rel="stylesheet" href="<?php echo INTRAPLAYER_PLUGIN_DIR_URL; ?>css/admin.css" media="all" />
+<script type="text/javascript" src="<?php echo INTRAPLAYER_PLUGIN_DIR_URL; ?>js/admin.js"></script>
